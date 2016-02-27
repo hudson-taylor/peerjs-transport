@@ -1,0 +1,24 @@
+{
+  "name": "ht-peerjs-transport",
+  "version": "0.0.1",
+  "description": "Experimental P2P WebRTC transport for HT",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hudson-taylor/peerjs-transport.git"
+  },
+  "keywords": [
+    "hudson-taylor",
+    "webrtc",
+    "p2p"
+  ],
+  "author": "Adam Brady <adam@boxxen.org>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hudson-taylor/peerjs-transport/issues"
+  },
+  "homepage": "https://github.com/hudson-taylor/peerjs-transport#readme"
+}
